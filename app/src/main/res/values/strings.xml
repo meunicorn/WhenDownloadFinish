@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">什么时候下完？</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="filesize">
+        <item>KB</item>
+        <item>MB</item>
+        <item>GB</item>
+    </string-array>
+    <string-array name="downloadspeed">
+        <item>KB/S</item>
+        <item>MB/S</item>
+    </string-array>
+</resources>
